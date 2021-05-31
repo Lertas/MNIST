@@ -2,6 +2,8 @@
 
 "This project is licensed under the terms of the MIT license."
 
+Msc in Data Science , Dimokritos. 
+
 In this project we have to process the "MNIST" data set, which has photos with handwritten digits. 
 We have to find the best algorithm from a list of algorithms of our choice. 
 Below we list the statistics and performance of each of the algorithms we chose for this classification problem.
